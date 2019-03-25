@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="8" time="380.869411">
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality of Contactus tab" time="50.990998">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+Then click on the contactus tab.............................................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality of Home tab" time="17.605507">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+When verify the title of the globalsqa webpage..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality of About Us" time="58.290722">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+And verify the functionality by click on sub menu our process...............passed
+Then verify the functionality by click on sub menu mission and values.......passed
+Then verify the functionality by click on sub menu Reviews..................passed
+Then verify the functionality by click on sub menu carrers..................passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality for tab Tester’s Hub" time="34.027308">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+Then verify the functionality by click on sub menu demotesting..............passed
+And verify the functionality by click on sub menu AngularJS Protractor practise site.passed
+And verify the functionality by click on sub menu sample page test..........passed
+Then verify the functionality by click on sub menu Flash website............passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality for tab Tester’s Hub and its submenu demotesting site avilable options" time="71.749035">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+And verify the functionality by click on tooltip option avilable under submenu demotesting.passed
+And verify the functionality by click on AlertBox option avilable under submenu demotesting.passed
+And verify the functionality by click on DatePicker option avilable under submenu demotesting.passed
+And verify the functionality by click on dialogboxes option avilable under submenu demotesting.passed
+And verify the functionality by click on progressbar option avilable under submenu demotesting.passed
+And verify the functionality by click on DragandDrop option avilable under submenu demotesting.passed
+Then verify the functionality by click on DragableBoxes option avilable under submenu demotesting.passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality for tab Tester’s Hub and its submenu AngularJS Protractor practise site avilable options" time="60.041269">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+And verify the functionality by click on Filter option avilable under AngularJS Protractor practise site.passed
+And verify the functionality by click on Scrollable option avilable under AngularJS Protractor practise site.passed
+And verify the functionality by click on MultiForm option avilable under AngularJS Protractor practise site.passed
+And verify the functionality by click on Webtable option avilable under AngularJS Protractor practise site.passed
+And verify the functionality by click on RegistrationForm option avilable under AngularJS Protractor practise site.passed
+And verify the functionality by click on simplecalculator option avilable under AngularJS Protractor practise site.passed
+Then verify the functionality by click on BankingProject option avilable under AngularJS Protractor practise site.passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features in Home page in globalsqa website" name="Verify the functionality of all the submenus avilable in Traning tab" time="28.841485">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+And verify the functionality by click on onlinetraining option avilable under Traning tab.passed
+And verify the functionality by click on campustraning option avilable under Traning tab.passed
+Then verify the functionality by click on corporatetraning option avilable under Traning tab.passed
+And close the browser.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify the features of testerhub tab in globalsqa website" name="verify the functionality of sample page test under testhub tab" time="59.323087">
+<system-out><![CDATA[Given User is on the web Page...............................................passed
+And verify the functionality by click on sub menu sample page test..........passed
+Then click on Choose file...................................................passed
+And Enter name email and website............................................passed
+Then select the experience in dropdown list.................................passed
+Then click on Expertise check box...........................................passed
+And click on Education check box............................................passed
+Then click on submit button.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
